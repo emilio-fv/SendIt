@@ -28,7 +28,7 @@ TODO
 Coming soon!
 
 ## Docs
-Documentation for this project can be found [here](https://www.notion.so/6f5244c382854e6092b6c20054b7d1c6?v=26f6e2ac157d4f4087c8712b5e6ae132).
+Documentation for this project can be found [here](https://garnet-bathtub-08d.notion.site/6f5244c382854e6092b6c20054b7d1c6?v=26f6e2ac157d4f4087c8712b5e6ae132).
 
 ## Features
 Coming Soon
